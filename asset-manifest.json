@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/socialNetWorkBimba/static/css/main.71372952.css",
+    "main.js": "/socialNetWorkBimba/static/js/main.e7c18978.js",
+    "static/js/787.28cb0dcd.chunk.js": "/socialNetWorkBimba/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pngwing.com.png": "/socialNetWorkBimba/static/media/pngwing.com.ba0d969a0e16fcf90a05.png",
+    "static/media/ava.jpg": "/socialNetWorkBimba/static/media/ava.a83f03f28b21cd9c9f28.jpg",
+    "index.html": "/socialNetWorkBimba/index.html",
+    "main.71372952.css.map": "/socialNetWorkBimba/static/css/main.71372952.css.map",
+    "main.e7c18978.js.map": "/socialNetWorkBimba/static/js/main.e7c18978.js.map",
+    "787.28cb0dcd.chunk.js.map": "/socialNetWorkBimba/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71372952.css",
+    "static/js/main.e7c18978.js"
+  ]
+}
